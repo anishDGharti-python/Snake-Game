@@ -28,3 +28,5 @@ python snake_game.py
   Use the arrow keys to change the direction of the snake.
   Avoid hitting the walls or the snake's own tail.
   Try to eat as many apples as possible to increase your score.
+  ENJOY THE GAME
+  
